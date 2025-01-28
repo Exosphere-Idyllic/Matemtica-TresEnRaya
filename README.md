@@ -17,7 +17,7 @@ El programa se ejecuta completamente en consola y permite que dos jugadores jueg
 - **Java 8** o superior.
 - Editor de texto o entorno de desarrollo integrado (IDE) como IntelliJ IDEA, Eclipse o VS Code.
    
- Estructura del código 
+## Estructura del código 
 
 El programa está contenido en un solo archivo llamado TresEnRaya.java, organizado de la siguiente manera:
 
