@@ -18,6 +18,7 @@ El programa se ejecuta completamente en consola y permite que dos jugadores jueg
 - Editor de texto o entorno de desarrollo integrado (IDE) como IntelliJ IDEA, Eclipse o VS Code.
    
 - Ejemplo de tabkero inicial:
+
   |   |  
 ---------
   |   |  
@@ -25,6 +26,7 @@ El programa se ejecuta completamente en consola y permite que dos jugadores jueg
   |   |  
 
 - Ejemplo después de varios turnos:
+
 X | O | X
 ---------
   | X | O
@@ -32,6 +34,7 @@ X | O | X
 O |   | X
 
 --------- Estructura del código ---------
+
 El programa está contenido en un solo archivo llamado TresEnRaya.java, organizado de la siguiente manera:
 
 Declaración del tablero: Una matriz de char de tamaño 3x3 para representar el estado del juego.
